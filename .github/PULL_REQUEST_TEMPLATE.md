@@ -42,5 +42,5 @@ Examples:
 - [ ] Enable "Allow edits from maintainers" for this PR
 - [ ] Update the messages below
 
-***Is this ready for review?:*** NO
-***Is it a breaking change?:*** NO
+**_Is this ready for review?:_** NO
+**_Is it a breaking change?:_** NO
